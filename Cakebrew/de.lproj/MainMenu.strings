@@ -131,7 +131,7 @@
 "GVv-as-Pfq.title" = "Anfangsbuchstaben großschreiben";
 
 /* Class = "NSMenuItem"; title = "Export Brew Installation…"; ObjectID = "Gbv-K1-deL"; */
-"Gbv-K1-deL.title" = "Exportiere Brew Installation...";
+"Gbv-K1-deL.title" = "Brew Installation exportieren…";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "H1C-ip-FlF"; */
 "H1C-ip-FlF.title" = "Widerrufen";
@@ -152,7 +152,7 @@
 "KUc-5l-twA.title" = "Veraltete Formeln";
 
 /* Class = "NSMenuItem"; title = "Import Brew Installation…"; ObjectID = "LU8-D3-Wwe"; */
-"LU8-D3-Wwe.title" = "Importiere Brew Installation...";
+"LU8-D3-Wwe.title" = "Brew Installation importieren…";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "LYP-iZ-WcV"; */
 "LYP-iZ-WcV.title" = "Bearbeiten";
